@@ -10,3 +10,6 @@ reports/
 .keys.sh
 .env
 runcon.sh
+notebooks/*
+!notebooks/staging/
+!notebooks/sandbox/
