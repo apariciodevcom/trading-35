@@ -1,0 +1,12 @@
+trading_env/
+logs/
+data/
+docs/
+respaldo/
+reports/
+*.pyc
+.ipynb_checkpoints/
+*.parquet
+.keys.sh
+.env
+runcon.sh
