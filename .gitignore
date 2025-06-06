@@ -3,7 +3,10 @@ logs/
 data/
 docs/
 respaldo/
-reports/
+/reports/*
+!/reports/senales_heuristicas/
+/reports/senales_heuristicas/*
+!/reports/senales_heuristicas/exploracion/
 *.pyc
 .ipynb_checkpoints/
 *.parquet
